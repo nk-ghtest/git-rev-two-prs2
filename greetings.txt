@@ -1,3 +1,2 @@
 Hello
-Good Morning (PR1)
 Good Night (PR2)
